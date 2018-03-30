@@ -1,0 +1,18 @@
+{
+  "version": "1.2.2",
+  "title": "New Version Found, Please Update Now !!!",
+  "link": "https://www.mediafire.com/file/js2yrov2i809cay/pubgmcc+v1.2.2.apk",
+  "text": "Click here.",
+  "action": "toast",
+  "value": "PUBGMCC New Update Being Upload...",
+  "debug": 0,
+  "times": 1,
+  "keycode": 0,
+  "disabled": 0,
+  "showupdate": 0,
+  "intervalspeed": 60000,
+  
+  "//": "ACTION: notification, browser, youtube, showhide, toast",
+  "//": "VALUES: for notification(Title|Text), browser(http://goo.gl), youtube(y8yds3rwqs)"
+  
+}
