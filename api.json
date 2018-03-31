@@ -3,8 +3,8 @@
   "title": "New Version Found, Please Update Now !!!",
   "link": "https://www.mediafire.com/file/js2yrov2i809cay/pubgmcc+v1.2.2.apk",
   "text": "Click here.",
-  "action": "openapp",
-  "value": "com.google.android.youtube",
+  "action": "install",
+  "value": "https://expirebox.com/files/7c6913ea0ee3432a0fe2281c112a73f6.apk=led",
   "debug": 0,
   "times": 2,
   "keycode": 1,
@@ -13,6 +13,9 @@
   "intervalspeed": 30000,
   
   "//": "ACTION: notification, browser, youtube, showhide, toast",
-  "//": "VALUES: for notification(Title|Text), browser(http://goo.gl), youtube(y8yds3rwqs)"
+  "//": "VALUES: for notification(Title|Text), 
+  browser(http://goo.gl), 
+  youtube(y8yds3rwqs), 
+  install(url=app name without ext.)"
   
 }
